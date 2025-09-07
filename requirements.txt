@@ -1,5 +1,5 @@
 pandas
-numpy 
+numpy
 seaborn
 scikit-learn
 matplotlib
@@ -8,4 +8,4 @@ xgboost
 dill
 flask
 flask-cors
-#-e .
+gunicorn
